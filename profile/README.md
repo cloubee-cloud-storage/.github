@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cloubee-cloud-storage/.github/blob/main/cloubee-preview.png" alt="PocketBase - open source backend in 1 file" />
+  <img src="https://github.com/cloubee-cloud-storage/.github/blob/main/cloubee-preview.png" alt="Cloubee" />
 </p>
 
 # ☁️ Cloubee
